@@ -30,8 +30,20 @@ ul {
     display: block;
 }
 
-.center-form {
-    margin: 0 auto;
-    width: 100px;
+.form-group {
+    margin: 0px auto;
+    width: 25%;
     display: block;
+}
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+    color: #6f42c1;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #8064A2;
+    color: #949CA5;
 }
