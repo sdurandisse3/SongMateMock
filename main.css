@@ -23,12 +23,6 @@ hr {
     display: block;
 }
 
-input[type="email"]:focus {
-    height: 48px;
-    padding: 0 .75em; 
-    border: 3px solid #555;
-}
-
 ul {
     list-style: none;
     margin: 0;
