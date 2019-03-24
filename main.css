@@ -3,3 +3,16 @@
     background-color: #949CA5; 
     background-image: linear-gradient(#949CA5, white); 
 }
+
+.header-bar {
+    border: 0;
+    background-color: #949CA5;
+    position: relative;
+    min-height: 80px;
+    margin-bottom: 0;
+}
+
+hr {
+    border: .3px solid #F6F7F8;
+    margin: auto;
+}
