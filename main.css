@@ -52,9 +52,13 @@ ul {
     list-style-type: none;
     display: flex;
     flex-direction: row;
-    text-align: center;
  }  
  
 div li {
     margin-right: 20;
+ /* text-align: center;  */
+}
+
+li a {
+    text-align: center;   
 }
