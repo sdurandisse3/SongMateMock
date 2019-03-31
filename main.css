@@ -47,3 +47,7 @@ ul {
     background-color: #8064A2;
     color: #949CA5;
 }
+
+ol {
+    list-style-type: none;
+    }
