@@ -51,6 +51,10 @@ ul {
  ol {
     list-style-type: none;
     display: flex;
-    flex-direction: row
+    flex-direction: row;
+    text-align: center;
  }  
-
+ 
+div li {
+    margin-right: 20;
+}
