@@ -48,6 +48,9 @@ ul {
     color: #949CA5;
 }
 
-ol {
+ ol {
     list-style-type: none;
-    }
+    display: flex;
+    flex-direction: row
+ }  
+
